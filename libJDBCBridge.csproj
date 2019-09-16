@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>netcoreapp2.2</TargetFramework>
+        <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Item Remove="libJDBCBridgeTest\**" />
+      <Compile Remove="libJDBCBridgeTest\**" />
+      <EmbeddedResource Remove="libJDBCBridgeTest\**" />
+      <None Remove="libJDBCBridgeTest\**" />
+    </ItemGroup>
+
+
+</Project>

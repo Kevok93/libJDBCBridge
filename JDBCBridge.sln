@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libJDBCBridge", "libJDBCBridge.csproj", "{6C26EFC9-348A-46BE-B3C2-69DF24DE4826}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "libJDBCBridgeTest", "libJDBCBridgeTest\libJDBCBridgeTest.csproj", "{99C14973-23A0-46E7-A8EE-45F48799E1A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C26EFC9-348A-46BE-B3C2-69DF24DE4826}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C26EFC9-348A-46BE-B3C2-69DF24DE4826}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C26EFC9-348A-46BE-B3C2-69DF24DE4826}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C26EFC9-348A-46BE-B3C2-69DF24DE4826}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99C14973-23A0-46E7-A8EE-45F48799E1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99C14973-23A0-46E7-A8EE-45F48799E1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99C14973-23A0-46E7-A8EE-45F48799E1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99C14973-23A0-46E7-A8EE-45F48799E1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
